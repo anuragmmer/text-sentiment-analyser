@@ -22,8 +22,8 @@ pip install pandas
 pip install plotly
 ```
 
-2. Open a new Python file and copy/paste the code.
+2. Open a new Python file and copy/paste the code or download the file.
 
-3. Run the code in your Python environment.
+3. Run the code in your Python environment such as Anaconda IDLE, Windows command prompt or PowerShell terminal.
 
 When you run the code, a file dialog will open asking you to select a text file. Once you've selected a file, the code will perform sentiment analysis on the file's text and display three bar charts using Plotly. The first bar chart displays the top 10 most frequent adjectives and adverbs, the second bar chart displays the top 10 most frequent noun phrases and lemmatized words, and the third bar chart displays the sentiment polarity and subjectivity of the text.
